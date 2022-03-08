@@ -13,6 +13,7 @@ public class AleatorioTest {
 			int numAle;
 			numAle = (int)(Math.random()*100);
 			System.out.println(numAle);
+			System.out.println("aaaaaaaaahhhhhhhhhhhhhhhhhh");
 		}
 		
 	}
