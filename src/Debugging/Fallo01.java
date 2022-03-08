@@ -11,6 +11,7 @@ public class Fallo01 {
 			System.out.println(num1-num2*vuelta);
 			vuelta++;
 		}
+		int a = 1+1;
 
 	}
 
