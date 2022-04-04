@@ -5,6 +5,7 @@ public class Division {
 		int a = 1+1;
 		int b = num1 + num2;
 		int c = (num1*2)/num2;
-		return (b+a)*c;
+		int d = 2;
+		return ((b+a)*c)/d;
 	}
 }
